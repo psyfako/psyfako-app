@@ -2,7 +2,7 @@
 
 import ezodf, os, sys, json
 
-ak_file = ezodf.opendoc(sys.argv[1])
+ak_file = ezodf.opendoc('./arbeitskreise.ods')
 
 def fun(value):
     if value.plaintext() == '':
