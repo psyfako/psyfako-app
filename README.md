@@ -15,7 +15,7 @@ Für jeden Zeitslot in den bezogenen Daten wird dann ein Infoblock in der
 App eingefügt, der die darin stattfindenden Arbeitskreise darstellt.
 
 ## Bisherige Verwendung
-
+Jetzt wird der Versuch gestartet die Zapf-app für die Psyfako zu portieren um sie hoffentlich in Stendal 2014 nutzen zu können.
 Genutzt wurde die ZaPF-App zum ersten Mal im Winter-Semester 2012 in Karlsruhe
 ([damaliger Stand](https://github.com/ZaPF/ZaPF-App/tree/WiSe12-Karlsruhe))
 und darauf im Sommer-Semester 2013 in Jena.
