@@ -1,66 +1,206 @@
 {
     "arbeitskreise": [
         {
-            "name": "Dummy 01", 
-            "responsible": "Dak 1", 
-            "room": "01", 
+            "name": "Fachschaftsorganisation", 
+            "responsible": "Olaf (Uni Marburg)", 
+            "room": "1.02", 
             "slotid": "01", 
             "url": null
         }, 
         {
-            "name": "Dummy 02", 
-            "responsible": "Dak 2", 
-            "room": "02", 
+            "name": "PT-Schulen-Trimmung? Vielfalt?", 
+            "responsible": "Markus", 
+            "room": "0.05", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "PiA", 
+            "responsible": "Philipp (Duesseldorf)", 
+            "room": "0.09", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Akkreditierung", 
+            "responsible": "Anna (Bamberg)", 
+            "room": "0.22", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Psychologie ?", 
+            "responsible": "Josua", 
+            "room": "0.21", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Psyfako-App", 
+            "responsible": "Wuschel (Bamberg)", 
+            "room": "Fruehstuecksraum", 
+            "slotid": "01", 
+            "url": "http://tinyurl.com/psyfako"
+        }, 
+        {
+            "name": "IPU Umweltpsychologie", 
+            "responsible": "Laura", 
+            "room": "1.02", 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "Dummy 03", 
-            "responsible": "Dak 3", 
-            "room": "03", 
+            "name": "Masterquote", 
+            "responsible": "Julien", 
+            "room": "1.20", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Finanzen", 
+            "responsible": "Marius", 
+            "room": "0.07", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "PiA", 
+            "responsible": "N.N.", 
+            "room": "0.09", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Lehre? Selber machen!", 
+            "responsible": "Max (der mit den Locken)", 
+            "room": "0.22", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Fachschaftsimage", 
+            "responsible": "Martin (Osnabrueck)", 
+            "room": "1.02", 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "Dummy 04", 
-            "responsible": "Dak 4", 
-            "room": "04", 
+            "name": "Institutsklima", 
+            "responsible": "Lara (Kiel)", 
+            "room": "1.20", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Vereinsangelegenheiten Psyfako e.V.", 
+            "responsible": "Norman (Stendal)", 
+            "room": "0.07", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Gegendemo", 
+            "responsible": "Mukundi (Wuerzburg)", 
+            "room": "0.05", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "PiA", 
+            "responsible": "N.N.", 
+            "room": "0.09", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Masterzulassungsbeschraenkungen", 
+            "responsible": "Tabea (Braunschweig)", 
+            "room": "0.22", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Petition Mastergarantie (deutschlandweit)", 
+            "responsible": "Theresa / Sandra", 
+            "room": "1.02", 
             "slotid": "04", 
             "url": null
         }, 
         {
-            "name": "Dummy 05", 
-            "responsible": "Dak 5", 
-            "room": "05", 
+            "name": "Wir als Fachschaft", 
+            "responsible": "Lisa", 
+            "room": "0.07", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Psychotherapieausbildung in der Zukunft", 
+            "responsible": "Rick", 
+            "room": "0.09", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "K\u00fcrzungen auch in der Psychologie?", 
+            "responsible": "Anni (Jena)", 
+            "room": "0.21", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Vernetzung (PsyStudents)", 
+            "responsible": "Max", 
+            "room": "1.02", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "Dummy 06", 
-            "responsible": "Dak 6", 
-            "room": "06", 
+            "name": "Psychotherapieausbildung in der Zukunft", 
+            "responsible": "Rick", 
+            "room": "0.09", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Fachschaft: Schneller Einstieg fuer alle", 
+            "responsible": "David (Frankfurt (M))", 
+            "room": "0.21", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Nachwuchssuche", 
+            "responsible": "Anne", 
+            "room": "0.07", 
             "slotid": "06", 
             "url": null
         }, 
         {
-            "name": "Dummy 07", 
-            "responsible": "Dak 7", 
-            "room": "07", 
+            "name": "PiA zu Besuch!", 
+            "responsible": "Rike", 
+            "room": "0.09", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "Auslandssemester", 
+            "responsible": "David (Frankfurt (M))", 
+            "room": "1.02", 
             "slotid": "07", 
             "url": null
         }, 
         {
-            "name": "Dummy 08", 
-            "responsible": "Dak 8", 
-            "room": "08", 
-            "slotid": "b1", 
+            "name": "KonRat", 
+            "responsible": "Britta", 
+            "room": "1.20", 
+            "slotid": "07", 
             "url": null
         }, 
         {
-            "name": "Dummy 09", 
-            "responsible": "Dak 9", 
-            "room": "09", 
-            "slotid": "b2", 
+            "name": "Kreativitaet ", 
+            "responsible": "Tim", 
+            "room": "0.09", 
+            "slotid": "07", 
             "url": null
         }
     ], 
@@ -70,21 +210,21 @@
             "end": "2014-01-17T11:00:00+0100", 
             "id": "01", 
             "name": "1. Open-Space-Runde", 
-            "shortname": "OSR 1"
+            "shortname": "F 1"
         }, 
         {
-            "begin": "2014-01-17T12:30:00+0100", 
+            "begin": "2014-01-17T12:00:00+0100", 
             "end": "2014-01-17T13:30:00+0100", 
             "id": "02", 
             "name": "2. Open-Space-Runde", 
-            "shortname": "OSR 2"
+            "shortname": "F 2"
         }, 
         {
             "begin": "2014-01-17T13:30:00+0100", 
-            "end": "2014-01-17T15:00:00+0100", 
+            "end": "2014-01-17T15:30:00+0100", 
             "id": "03", 
             "name": "3. Open-Space-Runde", 
-            "shortname": "OSR 3"
+            "shortname": "F 3"
         }, 
         {
             "begin": "2014-01-17T16:30:00+0100", 
@@ -94,36 +234,36 @@
             "shortname": "Bonus 1"
         }, 
         {
-            "begin": "2014-01-17T08:30:00+0100", 
-            "end": "2014-01-17T10:00:00+0100", 
+            "begin": "2014-01-18T08:30:00+0100", 
+            "end": "2014-01-18T10:00:00+0100", 
             "id": "04", 
             "name": "4. Open-Space-Runde", 
-            "shortname": "OSR 4"
+            "shortname": "S1"
         }, 
         {
-            "begin": "2014-01-17T10:00:00+0100", 
-            "end": "2014-01-17T11:30:00+0100", 
+            "begin": "2014-01-18T10:00:00+0100", 
+            "end": "2014-01-18T11:30:00+0100", 
             "id": "05", 
             "name": "5. Open-Space-Runde", 
-            "shortname": "OSR 5"
+            "shortname": "S 2"
         }, 
         {
-            "begin": "2014-01-17T13:00:00+0100", 
-            "end": "2014-01-17T14:30:00+0100", 
+            "begin": "2014-01-18T13:00:00+0100", 
+            "end": "2014-01-18T14:30:00+0100", 
             "id": "06", 
             "name": "6. Open-Space-Runde", 
-            "shortname": "OSR 6"
+            "shortname": "S 3"
         }, 
         {
-            "begin": "2014-01-17T14:30:00+0100", 
-            "end": "2014-01-17T18:00:00+0100", 
+            "begin": "2014-01-18T14:30:00+0100", 
+            "end": "2014-01-18T18:00:00+0100", 
             "id": "07", 
             "name": "7. Open-Space-Runde", 
-            "shortname": "OSR 7"
+            "shortname": "S 4"
         }, 
         {
-            "begin": "2014-01-17T20:00:00+0100", 
-            "end": "2014-01-17T22:00:00+0100", 
+            "begin": "2014-01-18T20:00:00+0100", 
+            "end": "2014-01-18T22:00:00+0100", 
             "id": "b2", 
             "name": "Bonusrunde Samstag", 
             "shortname": "Bonus 2"
