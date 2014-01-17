@@ -204,21 +204,21 @@
             "url": null
         }, 
         {
-            "name": "Akkreditierung II", 
+            "name": "Akkreditierung Teil 2", 
             "responsible": "N.N.", 
             "room": "0.21", 
             "slotid": "02", 
             "url": "http://www.psyfako.de/mediawiki/index.php/AG_Akkreditierung"
         }, 
         {
-            "name": "Fachschaftsorganisation II", 
+            "name": "Fachschaftsorganisation Teil 2", 
             "responsible": "Olaf (Uni Marburg)", 
             "room": "0.07", 
             "slotid": "07", 
             "url": null
         }, 
         {
-            "name": "Psychologie ? II", 
+            "name": "Psychologie ? Teil 2", 
             "responsible": "Josua", 
             "room": "0.21", 
             "slotid": "03", 
@@ -239,10 +239,24 @@
             "url": null
         }, 
         {
-            "name": "Akkreditierung II", 
+            "name": "Akkreditierung Teil 3", 
             "responsible": "N.N.", 
             "room": "0.21", 
             "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Wer sind wir (Sponsoring schreiben)", 
+            "responsible": "Norman (Stendal)", 
+            "room": null, 
+            "slotid": "b1", 
+            "url": null
+        }, 
+        {
+            "name": "Paranoia \u2013 warum wir als Psychologen Kommunikation Verschl\u00fcsseln m\u00fcssen!", 
+            "responsible": "N.N.", 
+            "room": null, 
+            "slotid": "b1", 
             "url": null
         }
     ], 
