@@ -237,6 +237,13 @@
             "room": "Magdeburg", 
             "slotid": "07", 
             "url": null
+        }, 
+        {
+            "name": "Akkreditierung II", 
+            "responsible": "N.N.", 
+            "room": "0.21", 
+            "slotid": "03", 
+            "url": null
         }
     ], 
     "slots": [
