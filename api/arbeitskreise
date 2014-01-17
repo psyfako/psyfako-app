@@ -256,7 +256,28 @@
             "name": "Paranoia \u2013 warum wir als Psychologen Kommunikation Verschl\u00fcsseln m\u00fcssen!", 
             "responsible": "N.N.", 
             "room": null, 
-            "slotid": "b1", 
+            "slotid": "b2", 
+            "url": null
+        }, 
+        {
+            "name": "Fachschaft als politischer Raum", 
+            "responsible": "Janis (Marburg)", 
+            "room": "1.20", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Noten, Pr\u00fcfungen und alternative Pr\u00fcfungskonzepte", 
+            "responsible": "Anne-Sophie", 
+            "room": "1.20", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "FS-Orga 2", 
+            "responsible": "N.N.", 
+            "room": "0.07", 
+            "slotid": "07", 
             "url": null
         }
     ], 
