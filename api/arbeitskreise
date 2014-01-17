@@ -19,14 +19,14 @@
             "responsible": "Philipp (Duesseldorf)", 
             "room": "0.09", 
             "slotid": "01", 
-            "url": null
+            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
         }, 
         {
             "name": "Akkreditierung", 
             "responsible": "Anna (Bamberg)", 
             "room": "0.22", 
             "slotid": "01", 
-            "url": null
+            "url": "www.psyfako.de/mediawiki/index.php/AG_Akkreditierung"
         }, 
         {
             "name": "Psychologie ?", 
@@ -64,11 +64,11 @@
             "url": null
         }, 
         {
-            "name": "PiA", 
+            "name": "PiA II", 
             "responsible": "N.N.", 
             "room": "0.09", 
             "slotid": "02", 
-            "url": null
+            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
         }, 
         {
             "name": "Lehre? Selber machen!", 
@@ -106,11 +106,11 @@
             "url": null
         }, 
         {
-            "name": "PiA", 
+            "name": "PiA III", 
             "responsible": "N.N.", 
             "room": "0.09", 
             "slotid": "03", 
-            "url": null
+            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
         }, 
         {
             "name": "Masterzulassungsbeschraenkungen", 
@@ -180,7 +180,7 @@
             "responsible": "Rike", 
             "room": "0.09", 
             "slotid": "06", 
-            "url": null
+            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
         }, 
         {
             "name": "Auslandssemester", 
@@ -204,17 +204,24 @@
             "url": null
         }, 
         {
-            "name": "Akkreditierung", 
+            "name": "Akkreditierung II", 
             "responsible": "N.N.", 
             "room": "0.21", 
             "slotid": "02", 
+            "url": "www.psyfako.de/mediawiki/index.php/AG_Akkreditierung"
+        }, 
+        {
+            "name": "Fachschaftsorganisation II", 
+            "responsible": "Olaf (Uni Marburg)", 
+            "room": "0.07", 
+            "slotid": "07", 
             "url": null
         }, 
         {
-            "name": "FS-Orga II", 
-            "responsible": "N.N.", 
-            "room": "0.07", 
-            "slotid": "07", 
+            "name": "Psychologie ? II", 
+            "responsible": "Josua", 
+            "room": "0.21", 
+            "slotid": "03", 
             "url": null
         }
     ], 
