@@ -279,6 +279,20 @@
             "room": "0.07", 
             "slotid": "07", 
             "url": null
+        }, 
+        {
+            "name": "Stadtfuehrung Stendal", 
+            "responsible": "N.N.", 
+            "room": "Stendal", 
+            "slotid": "b1", 
+            "url": null
+        }, 
+        {
+            "name": "Fette Party mit heissen Beats", 
+            "responsible": "N.N.", 
+            "room": "Zelt", 
+            "slotid": "b1", 
+            "url": null
         }
     ], 
     "slots": [
