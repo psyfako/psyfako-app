@@ -1,13 +1,6 @@
 {
     "arbeitskreise": [
         {
-            "name": "Fachschaftsorganisation", 
-            "responsible": "Olaf (Uni Marburg)", 
-            "room": "1.02", 
-            "slotid": "01", 
-            "url": null
-        }, 
-        {
             "name": "PT-Schulen-Trimmung? Vielfalt?", 
             "responsible": "Markus", 
             "room": "0.05", 
@@ -22,6 +15,13 @@
             "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
         }, 
         {
+            "name": "Psychologie ?", 
+            "responsible": "Josua", 
+            "room": "0.21", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
             "name": "Akkreditierung", 
             "responsible": "Anna (Bamberg)", 
             "room": "0.22", 
@@ -29,9 +29,9 @@
             "url": "http://www.psyfako.de/mediawiki/index.php/AG_Akkreditierung"
         }, 
         {
-            "name": "Psychologie ?", 
-            "responsible": "Josua", 
-            "room": "0.21", 
+            "name": "Fachschaftsorganisation", 
+            "responsible": "Olaf (Uni Marburg)", 
+            "room": "1.02", 
             "slotid": "01", 
             "url": null
         }, 
@@ -41,20 +41,6 @@
             "room": "Fruehstuecksraum", 
             "slotid": "01", 
             "url": "http://tinyurl.com/psyfako"
-        }, 
-        {
-            "name": "IPU Umweltpsychologie", 
-            "responsible": "Laura", 
-            "room": "1.02", 
-            "slotid": "02", 
-            "url": null
-        }, 
-        {
-            "name": "Masterquote", 
-            "responsible": "Julien", 
-            "room": "1.20", 
-            "slotid": "02", 
-            "url": null
         }, 
         {
             "name": "Finanzen", 
@@ -71,10 +57,73 @@
             "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
         }, 
         {
+            "name": "Akkreditierung Teil 2", 
+            "responsible": "N.N.", 
+            "room": "0.21", 
+            "slotid": "02", 
+            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Akkreditierung"
+        }, 
+        {
             "name": "Lehre? Selber machen!", 
             "responsible": "Max (der mit den Locken)", 
             "room": "0.22", 
             "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "IPU Umweltpsychologie", 
+            "responsible": "Laura", 
+            "room": "1.02", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Masterquote", 
+            "responsible": "Julien", 
+            "room": "1.20", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Gegendemo", 
+            "responsible": "Mukundi (Wuerzburg)", 
+            "room": "0.05", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Vereinsangelegenheiten Psyfako e.V.", 
+            "responsible": "Norman (Stendal)", 
+            "room": "0.07", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "PiA III", 
+            "responsible": "N.N.", 
+            "room": "0.09", 
+            "slotid": "03", 
+            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
+        }, 
+        {
+            "name": "Psychologie ? Teil 2", 
+            "responsible": "Josua", 
+            "room": "0.21", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Akkreditierung Teil 3", 
+            "responsible": "N.N.", 
+            "room": "0.21", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Masterzulassungsbeschraenkungen", 
+            "responsible": "Tabea (Braunschweig)", 
+            "room": "0.22", 
+            "slotid": "03", 
             "url": null
         }, 
         {
@@ -89,41 +138,6 @@
             "responsible": "Lara (Kiel)", 
             "room": "1.20", 
             "slotid": "03", 
-            "url": null
-        }, 
-        {
-            "name": "Vereinsangelegenheiten Psyfako e.V.", 
-            "responsible": "Norman (Stendal)", 
-            "room": "0.07", 
-            "slotid": "03", 
-            "url": null
-        }, 
-        {
-            "name": "Gegendemo", 
-            "responsible": "Mukundi (Wuerzburg)", 
-            "room": "0.05", 
-            "slotid": "03", 
-            "url": null
-        }, 
-        {
-            "name": "PiA III", 
-            "responsible": "N.N.", 
-            "room": "0.09", 
-            "slotid": "03", 
-            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
-        }, 
-        {
-            "name": "Masterzulassungsbeschraenkungen", 
-            "responsible": "Tabea (Braunschweig)", 
-            "room": "0.22", 
-            "slotid": "03", 
-            "url": null
-        }, 
-        {
-            "name": "Petition Mastergarantie (deutschlandweit)", 
-            "responsible": "Theresa / Sandra", 
-            "room": "1.02", 
-            "slotid": "04", 
             "url": null
         }, 
         {
@@ -148,11 +162,39 @@
             "url": null
         }, 
         {
-            "name": "Vernetzung (PsyStudents)", 
-            "responsible": "Max", 
+            "name": "Petition Mastergarantie (deutschlandweit)", 
+            "responsible": "Theresa / Sandra", 
             "room": "1.02", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Fachschaft als politischer Raum", 
+            "responsible": "Janis (Marburg)", 
+            "room": "1.20", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Fachschaft als politischer Raum", 
+            "responsible": "Janis  ", 
+            "room": "1.20", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Lehre? Selber machen! Psychoanalyse Edition", 
+            "responsible": "Max", 
+            "room": "0.05", 
             "slotid": "05", 
-            "url": "https://www.facebook.com/psystudents"
+            "url": null
+        }, 
+        {
+            "name": "Akkreditierung \u2013 Entsendung in den Pool", 
+            "responsible": "Anna (Bamberg)", 
+            "room": "0.07", 
+            "slotid": "05", 
+            "url": null
         }, 
         {
             "name": "Psychotherapieausbildung in der Zukunft", 
@@ -169,6 +211,13 @@
             "url": null
         }, 
         {
+            "name": "Vernetzung (PsyStudents)", 
+            "responsible": "Max", 
+            "room": "1.02", 
+            "slotid": "05", 
+            "url": "https://www.facebook.com/psystudents"
+        }, 
+        {
             "name": "Nachwuchssuche", 
             "responsible": "Anne", 
             "room": "0.07", 
@@ -183,16 +232,30 @@
             "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
         }, 
         {
-            "name": "Auslandssemester", 
-            "responsible": "David (Frankfurt (M))", 
-            "room": "1.02", 
-            "slotid": "07", 
+            "name": "Noten, Pr\u00fcfungen und alternative Pr\u00fcfungskonzepte", 
+            "responsible": "Anne-Sophie", 
+            "room": "1.20", 
+            "slotid": "06", 
             "url": null
         }, 
         {
-            "name": "KonRat", 
-            "responsible": "Britta", 
-            "room": "1.20", 
+            "name": "FS - schneller Einstieg f\u00fcr alle", 
+            "responsible": "David (Frankfurt (M))", 
+            "room": "0.07", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "Gegendemo (aktiv, Teil 1; Beginn: 12:30 Uhr!)", 
+            "responsible": "Mukundi (Wuerzburg)", 
+            "room": "Magdeburg", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "Fachschaftsorganisation Teil 2", 
+            "responsible": "Olaf (Uni Marburg)", 
+            "room": "0.07", 
             "slotid": "07", 
             "url": null
         }, 
@@ -204,31 +267,31 @@
             "url": null
         }, 
         {
-            "name": "Akkreditierung Teil 2", 
-            "responsible": "N.N.", 
-            "room": "0.21", 
-            "slotid": "02", 
-            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Akkreditierung"
-        }, 
-        {
-            "name": "Fachschaftsorganisation Teil 2", 
-            "responsible": "Olaf (Uni Marburg)", 
-            "room": "0.07", 
+            "name": "Auslandssemester", 
+            "responsible": "David (Frankfurt (M))", 
+            "room": "1.02", 
             "slotid": "07", 
             "url": null
         }, 
         {
-            "name": "Psychologie ? Teil 2", 
-            "responsible": "Josua", 
+            "name": "Masterpetition", 
+            "responsible": "N.N.", 
             "room": "0.21", 
-            "slotid": "03", 
+            "slotid": "07", 
             "url": null
         }, 
         {
-            "name": "Gegendemo (aktiv, Teil 1; Beginn: 12:30 Uhr!)", 
-            "responsible": "Mukundi (Wuerzburg)", 
-            "room": "Magdeburg", 
-            "slotid": "06", 
+            "name": "Positive Impulse", 
+            "responsible": "Lisa", 
+            "room": "0.05", 
+            "slotid": "07", 
+            "url": null
+        }, 
+        {
+            "name": "KonRat", 
+            "responsible": "Britta", 
+            "room": "1.20", 
+            "slotid": "07", 
             "url": null
         }, 
         {
@@ -239,45 +302,10 @@
             "url": null
         }, 
         {
-            "name": "Akkreditierung Teil 3", 
-            "responsible": "N.N.", 
-            "room": "0.21", 
-            "slotid": "03", 
-            "url": null
-        }, 
-        {
             "name": "Wer sind wir (Sponsoring schreiben)", 
             "responsible": "Norman (Stendal)", 
             "room": "0.07", 
             "slotid": "b1", 
-            "url": null
-        }, 
-        {
-            "name": "Paranoia \u2013 warum wir als Psychologen Kommunikation Verschl\u00fcsseln m\u00fcssen!", 
-            "responsible": "N.N.", 
-            "room": null, 
-            "slotid": "b2", 
-            "url": null
-        }, 
-        {
-            "name": "Fachschaft als politischer Raum", 
-            "responsible": "Janis (Marburg)", 
-            "room": "1.20", 
-            "slotid": "04", 
-            "url": null
-        }, 
-        {
-            "name": "Noten, Pr\u00fcfungen und alternative Pr\u00fcfungskonzepte", 
-            "responsible": "Anne-Sophie", 
-            "room": "1.20", 
-            "slotid": "06", 
-            "url": null
-        }, 
-        {
-            "name": "FS-Orga 2", 
-            "responsible": "N.N.", 
-            "room": "0.07", 
-            "slotid": "07", 
             "url": null
         }, 
         {
@@ -292,6 +320,13 @@
             "responsible": "N.N.", 
             "room": "Zelt", 
             "slotid": "b1", 
+            "url": null
+        }, 
+        {
+            "name": "Paranoia \u2013 warum wir als Psychologen Kommunikation Verschl\u00fcsseln m\u00fcssen!", 
+            "responsible": "N.N.", 
+            "room": null, 
+            "slotid": "b2", 
             "url": null
         }
     ], 
