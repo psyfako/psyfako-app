@@ -1,4 +1,4 @@
-Das Skript template.py ist für python3 geschrieben.
+4Das Skript template.py ist für python3 geschrieben.
   es werden zusätzlich pakete benötigt:
      python3-ezodf (https://bitbucket.org/mozman/ezodf/overview)
      python3-lxml
@@ -30,3 +30,4 @@ cd /pfad/zur/psyfako-app/template && python template.py && git commit -am 'aussa
 
 
 Dann noch Befehl 4 anhängen...
+test
