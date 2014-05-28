@@ -1,402 +1,51 @@
 {
-    "arbeitskreise": [
-        {
-            "name": "PT-Schulen-Trimmung? Vielfalt?", 
-            "responsible": "Markus", 
-            "room": "0.05", 
-            "slotid": "01", 
-            "url": null
-        }, 
-        {
-            "name": "PiA", 
-            "responsible": "Philipp (Duesseldorf)", 
-            "room": "0.09", 
-            "slotid": "01", 
-            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
-        }, 
-        {
-            "name": "Psychologie ?", 
-            "responsible": "Josua", 
-            "room": "0.21", 
-            "slotid": "01", 
-            "url": null
-        }, 
-        {
-            "name": "Akkreditierung", 
-            "responsible": "Anna (Bamberg)", 
-            "room": "0.22", 
-            "slotid": "01", 
-            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Akkreditierung"
-        }, 
-        {
-            "name": "Fachschaftsorganisation", 
-            "responsible": "Olaf (Uni Marburg)", 
-            "room": "1.02", 
-            "slotid": "01", 
-            "url": null
-        }, 
-        {
-            "name": "Psyfako-App", 
-            "responsible": "Wuschel (Bamberg)", 
-            "room": "Fruehstuecksraum", 
-            "slotid": "01", 
-            "url": "http://tinyurl.com/psyfako"
-        }, 
-        {
-            "name": "Finanzen", 
-            "responsible": "Marius", 
-            "room": "0.07", 
-            "slotid": "02", 
-            "url": null
-        }, 
-        {
-            "name": "PiA II", 
-            "responsible": "N.N.", 
-            "room": "0.09", 
-            "slotid": "02", 
-            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
-        }, 
-        {
-            "name": "Akkreditierung Teil 2", 
-            "responsible": "N.N.", 
-            "room": "0.21", 
-            "slotid": "02", 
-            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Akkreditierung"
-        }, 
-        {
-            "name": "Lehre? Selber machen!", 
-            "responsible": "Max (der mit den Locken)", 
-            "room": "0.22", 
-            "slotid": "02", 
-            "url": null
-        }, 
-        {
-            "name": "IPU Umweltpsychologie", 
-            "responsible": "Laura", 
-            "room": "1.02", 
-            "slotid": "02", 
-            "url": null
-        }, 
-        {
-            "name": "Masterquote", 
-            "responsible": "Julien", 
-            "room": "1.20", 
-            "slotid": "02", 
-            "url": null
-        }, 
-        {
-            "name": "Gegendemo", 
-            "responsible": "Mukundi (Wuerzburg)", 
-            "room": "0.05", 
-            "slotid": "03", 
-            "url": null
-        }, 
-        {
-            "name": "Vereinsangelegenheiten Psyfako e.V.", 
-            "responsible": "Norman (Stendal)", 
-            "room": "0.07", 
-            "slotid": "03", 
-            "url": null
-        }, 
-        {
-            "name": "PiA III", 
-            "responsible": "N.N.", 
-            "room": "0.09", 
-            "slotid": "03", 
-            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
-        }, 
-        {
-            "name": "Psychologie ? Teil 2", 
-            "responsible": "Josua", 
-            "room": "0.21", 
-            "slotid": "03", 
-            "url": null
-        }, 
-        {
-            "name": "Akkreditierung Teil 3", 
-            "responsible": "N.N.", 
-            "room": "0.21", 
-            "slotid": "03", 
-            "url": null
-        }, 
-        {
-            "name": "Masterzulassungsbeschraenkungen", 
-            "responsible": "Tabea (Braunschweig)", 
-            "room": "0.22", 
-            "slotid": "03", 
-            "url": null
-        }, 
-        {
-            "name": "Fachschaftsimage", 
-            "responsible": "Martin (Osnabrueck)", 
-            "room": "1.02", 
-            "slotid": "03", 
-            "url": null
-        }, 
-        {
-            "name": "Institutsklima", 
-            "responsible": "Lara (Kiel)", 
-            "room": "1.20", 
-            "slotid": "03", 
-            "url": null
-        }, 
-        {
-            "name": "Wir als Fachschaft", 
-            "responsible": "Lisa", 
-            "room": "0.07", 
-            "slotid": "04", 
-            "url": null
-        }, 
-        {
-            "name": "Psychotherapieausbildung in der Zukunft", 
-            "responsible": "Rick", 
-            "room": "0.09", 
-            "slotid": "04", 
-            "url": null
-        }, 
-        {
-            "name": "K\u00fcrzungen auch in der Psychologie?", 
-            "responsible": "Anni (Jena)", 
-            "room": "0.21", 
-            "slotid": "04", 
-            "url": null
-        }, 
-        {
-            "name": "Petition Mastergarantie (deutschlandweit)", 
-            "responsible": "Theresa / Sandra", 
-            "room": "1.02", 
-            "slotid": "04", 
-            "url": null
-        }, 
-        {
-            "name": "Fachschaft als politischer Raum", 
-            "responsible": "Janis (Marburg)", 
-            "room": "1.20", 
-            "slotid": "04", 
-            "url": null
-        }, 
-        {
-            "name": "Fachschaft als politischer Raum", 
-            "responsible": "Janis  ", 
-            "room": "1.20", 
-            "slotid": "04", 
-            "url": null
-        }, 
-        {
-            "name": "Lehre? Selber machen! Psychoanalyse Edition", 
-            "responsible": "Max", 
-            "room": "0.05", 
-            "slotid": "05", 
-            "url": null
-        }, 
-        {
-            "name": "Akkreditierung \u2013 Entsendung in den Pool", 
-            "responsible": "Anna (Bamberg)", 
-            "room": "0.07", 
-            "slotid": "05", 
-            "url": null
-        }, 
-        {
-            "name": "Psychotherapieausbildung in der Zukunft", 
-            "responsible": "Rick", 
-            "room": "0.09", 
-            "slotid": "05", 
-            "url": null
-        }, 
-        {
-            "name": "Fachschaft: Schneller Einstieg fuer alle", 
-            "responsible": "David (Frankfurt (M))", 
-            "room": "0.21", 
-            "slotid": "05", 
-            "url": null
-        }, 
-        {
-            "name": "Vernetzung (PsyStudents)", 
-            "responsible": "Max", 
-            "room": "1.02", 
-            "slotid": "05", 
-            "url": "https://www.facebook.com/psystudents"
-        }, 
-        {
-            "name": "Nachwuchssuche", 
-            "responsible": "Anne", 
-            "room": "0.07", 
-            "slotid": "06", 
-            "url": null
-        }, 
-        {
-            "name": "PiA zu Besuch!", 
-            "responsible": "Rike", 
-            "room": "0.09", 
-            "slotid": "06", 
-            "url": "http://www.psyfako.de/mediawiki/index.php/AG_Master"
-        }, 
-        {
-            "name": "Noten, Pr\u00fcfungen und alternative Pr\u00fcfungskonzepte", 
-            "responsible": "Anne-Sophie", 
-            "room": "1.20", 
-            "slotid": "06", 
-            "url": null
-        }, 
-        {
-            "name": "FS - schneller Einstieg f\u00fcr alle", 
-            "responsible": "David (Frankfurt (M))", 
-            "room": "0.07", 
-            "slotid": "06", 
-            "url": null
-        }, 
-        {
-            "name": "Masterpetition", 
-            "responsible": "N.N.", 
-            "room": "0.22", 
-            "slotid": "06", 
-            "url": null
-        }, 
-        {
-            "name": "Gegendemo (aktiv, Teil 1; Beginn: 12:30 Uhr!)", 
-            "responsible": "Mukundi (Wuerzburg)", 
-            "room": "Magdeburg", 
-            "slotid": "06", 
-            "url": null
-        }, 
-        {
-            "name": "Fachschaftsorganisation Teil 2", 
-            "responsible": "Olaf (Uni Marburg)", 
-            "room": "0.07", 
-            "slotid": "07", 
-            "url": null
-        }, 
-        {
-            "name": "Kreativitaet ", 
-            "responsible": "Tim", 
-            "room": "0.09", 
-            "slotid": "07", 
-            "url": null
-        }, 
-        {
-            "name": "Auslandssemester", 
-            "responsible": "David (Frankfurt (M))", 
-            "room": "1.02", 
-            "slotid": "07", 
-            "url": null
-        }, 
-        {
-            "name": "Masterpetition", 
-            "responsible": "N.N.", 
-            "room": "0.21", 
-            "slotid": "07", 
-            "url": null
-        }, 
-        {
-            "name": "Positive Impulse", 
-            "responsible": "Lisa", 
-            "room": "0.05", 
-            "slotid": "07", 
-            "url": null
-        }, 
-        {
-            "name": "KonRat", 
-            "responsible": "Britta", 
-            "room": "1.20", 
-            "slotid": "07", 
-            "url": null
-        }, 
-        {
-            "name": "Gegendemo (aktiv, Teil 2)", 
-            "responsible": "Mukundi (Wuerzburg)", 
-            "room": "Magdeburg", 
-            "slotid": "07", 
-            "url": null
-        }, 
-        {
-            "name": "Wer sind wir (Sponsoring schreiben)", 
-            "responsible": "Norman (Stendal)", 
-            "room": "0.07", 
-            "slotid": "b1", 
-            "url": null
-        }, 
-        {
-            "name": "Stadtfuehrung Stendal", 
-            "responsible": "N.N.", 
-            "room": "Stendal", 
-            "slotid": "b1", 
-            "url": null
-        }, 
-        {
-            "name": "Nice Party! Such WOW! ", 
-            "responsible": "N.N.", 
-            "room": "Zelt", 
-            "slotid": "b1", 
-            "url": null
-        }, 
-        {
-            "name": "Paranoia \u2013 warum wir als Psychologen Kommunikation Verschl\u00fcsseln m\u00fcssen!", 
-            "responsible": "N.N.", 
-            "room": null, 
-            "slotid": "b2", 
-            "url": null
-        }
-    ], 
+    "arbeitskreise": [], 
     "slots": [
         {
-            "begin": "2014-01-17T10:30:00+0100", 
-            "end": "2014-01-17T12:00:00+0100", 
+            "begin": "2014-05-30T10:00:00+0100", 
+            "end": "2014-05-30T11:30:00+0100", 
             "id": "01", 
             "name": "1. Open-Space-Runde", 
             "shortname": "F 1"
         }, 
         {
-            "begin": "2014-01-17T13:00:00+0100", 
-            "end": "2014-01-17T14:30:00+0100", 
+            "begin": "2014-05-30T13:30:00+0100", 
+            "end": "2014-05-30T15:30:00+0100", 
             "id": "02", 
             "name": "2. Open-Space-Runde", 
             "shortname": "F 2"
         }, 
         {
-            "begin": "2014-01-17T14:30:00+0100", 
-            "end": "2014-01-17T16:30:00+0100", 
+            "begin": "2014-05-30T15:30:00+0100", 
+            "end": "2014-05-30T17:00:00+0100", 
             "id": "03", 
             "name": "3. Open-Space-Runde", 
             "shortname": "F 3"
         }, 
         {
-            "begin": "2014-01-17T16:30:00+0100", 
-            "end": "2014-01-17T18:00:00+0100", 
+            "begin": "2014-05-30T18:00:00+0100", 
+            "end": "2014-05-30T19:30:00+0100", 
             "id": "b1", 
             "name": "Bonusrunde Freitag", 
             "shortname": "Bonus 1"
         }, 
         {
-            "begin": "2014-01-18T09:30:00+0100", 
-            "end": "2014-01-18T11:00:00+0100", 
+            "begin": "2014-05-31T13:30:00+0100", 
+            "end": "2014-05-31T15:00:00+0100", 
             "id": "04", 
             "name": "4. Open-Space-Runde", 
             "shortname": "S1"
         }, 
         {
-            "begin": "2014-01-18T11:00:00+0100", 
-            "end": "2014-01-18T12:30:00+0100", 
+            "begin": "2014-05-31T15:00:00+0100", 
+            "end": "2014-05-31T16:30:00+0100", 
             "id": "05", 
             "name": "5. Open-Space-Runde", 
             "shortname": "S 2"
         }, 
         {
-            "begin": "2014-01-18T14:00:00+0100", 
-            "end": "2014-01-18T15:30:00+0100", 
-            "id": "06", 
-            "name": "6. Open-Space-Runde", 
-            "shortname": "S 3"
-        }, 
-        {
-            "begin": "2014-01-18T15:30:00+0100", 
-            "end": "2014-01-18T17:00:00+0100", 
-            "id": "07", 
-            "name": "7. Open-Space-Runde", 
-            "shortname": "S 4"
-        }, 
-        {
-            "begin": "2014-01-18T21:00:00+0100", 
-            "end": "2014-01-18T22:00:00+0100", 
+            "begin": "2014-05-31T18:00:00+0100", 
+            "end": "2014-05-31T20:00:00+0100", 
             "id": "b2", 
             "name": "Bonusrunde Samstag", 
             "shortname": "Bonus 2"
