@@ -29,10 +29,87 @@
             "url": null
         }, 
         {
-            "name": "Freib\u00c4Er", 
+            "name": "Freib\u00e4er", 
             "responsible": "Pillip", 
             "room": "304", 
             "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Konrat?!", 
+            "responsible": "Flo", 
+            "room": "113", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Wiki?", 
+            "responsible": "Nerds", 
+            "room": "119", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Pr\u00fcfungen? Vergleichbarkeit, Formen und so...", 
+            "responsible": null, 
+            "room": "102", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "PiA Vernetzung und Protest", 
+            "responsible": null, 
+            "room": "122", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "OpenAccess", 
+            "responsible": "Pt", 
+            "room": "113", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "FG Werbung", 
+            "responsible": null, 
+            "room": "119", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Bewusstsein, Weltbild und Paradigmenwechsel", 
+            "responsible": "Marc", 
+            "room": "102", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "PiA Reformen", 
+            "responsible": null, 
+            "room": "202", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "PiA Protest", 
+            "responsible": null, 
+            "room": "304", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Pr\u00fcfungen und alles Drumherum", 
+            "responsible": null, 
+            "room": "122", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Tiefenpsychologie etc", 
+            "responsible": "Max", 
+            "room": "113", 
+            "slotid": "05", 
             "url": null
         }
     ], 
