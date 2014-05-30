@@ -111,6 +111,27 @@
             "room": "113",
             "slotid": "1",
             "url": null
+        },
+        {
+            "name": "Pr\u00fcfung, Noten und Reaktionen",
+            "responsible": "Olaf",
+            "room": "102",
+            "slotid": "01",
+            "url": null
+        },
+        {
+            "name": "8-semestriger Bacherlor in Kiel",
+            "responsible": "Lara",
+            "room": "?",
+            "slotid": "01",
+            "url": null
+        },
+        {
+            "name": "PiA Einf\u00fchrung und Vortrag",
+            "responsible": "-",
+            "room": "219",
+            "slotid": "01",
+            "url": null
         }
     ],
     "slots": [
