@@ -71,7 +71,7 @@
             "url": null
         },
         {
-            "name": "FG Werbung",
+            "name": "FG Werbung + Fachschaftsaktionen",
             "responsible": "-",
             "room": "119",
             "slotid": "04",
@@ -101,8 +101,8 @@
         {
             "name": "Tiefenpsychologie etc",
             "responsible": "Max",
-            "room": "113",
-            "slotid": "05",
+            "room": "Treffen vor 219",
+            "slotid": "04",
             "url": null
         },
         {
@@ -131,6 +131,83 @@
             "responsible": "-",
             "room": "219",
             "slotid": "01",
+            "url": null
+        },
+        {
+            "name": "Doku",
+            "responsible": "Wuschel",
+            "room": "219",
+            "slotid": "04",
+            "url": null
+        },
+        {
+            "name": "Master Q2",
+            "responsible": "-",
+            "room": "213",
+            "slotid": "04",
+            "url": null
+        },
+        {
+            "name": "PiA Reformen",
+            "responsible": "-",
+            "room": "202",
+            "slotid": "04",
+            "url": null
+        },
+        {
+            "name": "PiA Protest",
+            "responsible": "-",
+            "room": "304",
+            "slotid": "04",
+            "url": null
+        },
+        {
+            "name": "Akkreditierung",
+            "responsible": "-",
+            "room": "119",
+            "slotid": "05",
+            "url": null
+        },
+        {
+            "name": "Parapsychologie ",
+            "responsible": "Lara",
+            "room": "102",
+            "slotid": "05",
+            "url": null
+        },
+        {
+            "name": "Demokratie?!",
+            "responsible": "Flo",
+            "room": "213",
+            "slotid": "05",
+            "url": null
+        },
+        {
+            "name": "PEPP (PiA)",
+            "responsible": "-",
+            "room": "202",
+            "slotid": "05",
+            "url": null
+        },
+        {
+            "name": "Verschl\u00fcsselung und Privatsph\u00e4re",
+            "responsible": "Pt & S\u00f6ren",
+            "room": "122",
+            "slotid": "05",
+            "url": null
+        },
+        {
+            "name": "Master Q3",
+            "responsible": "-",
+            "room": "304",
+            "slotid": "05",
+            "url": null
+        },
+        {
+            "name": "Flach- vs. Tiefsp\u00fcler ",
+            "responsible": "Wuschel",
+            "room": "219",
+            "slotid": "b2",
             "url": null
         }
     ],
