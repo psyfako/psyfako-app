@@ -192,7 +192,7 @@
         {
             "name": "Verschl\u00fcsselung und Privatsph\u00e4re",
             "responsible": "Pt & S\u00f6ren",
-            "room": "<b>!! 113 !!</b>",
+            "room": "Achtung! Neuer Raum: 113",
             "slotid": "05",
             "url": null
         },
@@ -206,6 +206,13 @@
         {
             "name": "Flach- vs. Tiefsp\u00fcler ",
             "responsible": "Wuschel",
+            "room": "219",
+            "slotid": "b2",
+            "url": null
+        },
+        {
+            "name": "Positionspapier OpenAccess",
+            "responsible": "-",
             "room": "219",
             "slotid": "b2",
             "url": null
