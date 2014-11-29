@@ -176,10 +176,17 @@
             "url": null
         }, 
         {
-            "name": "Night of Science \u2013 Wissenschaft mal ganz anders", 
-            "responsible": "Vanessa (Frankfurt)", 
+            "name": "Was macht ihr f\u00fcr eure Studierenden?", 
+            "responsible": "(Frankfurt)", 
             "room": "S +2/0110 (HSG)", 
             "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Night of Science \u2013 Wissenschaft mal ganz anders", 
+            "responsible": "(Frankfurt)", 
+            "room": "S +2/0110 (HSG)", 
+            "slotid": "06", 
             "url": null
         }, 
         {
