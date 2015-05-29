@@ -3,252 +3,252 @@
         {
             "name": "test", 
             "responsible": "testperson", 
-            "room": "Konferenzraum_1", 
+            "room": "E35", 
             "slotid": "01", 
             "url": null
         }, 
         {
-            "name": "PiA: Was ist PiA? Einf\u00fchrung", 
-            "responsible": "Meret (Trier)", 
-            "room": "D (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36a", 
             "slotid": "01", 
             "url": null
         }, 
         {
-            "name": "Gl\u00e4serner Krankenschein", 
-            "responsible": "David (Frankfurt)", 
-            "room": "S3 (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36b", 
             "slotid": "01", 
             "url": null
         }, 
         {
-            "name": "Approbationsdebatte \u2013 Zulassung", 
-            "responsible": "Stephanie (Jena)", 
-            "room": "S2 (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E37", 
             "slotid": "01", 
             "url": null
         }, 
         {
-            "name": "App \u2013 Homepage", 
-            "responsible": "Wuschel", 
-            "room": "02001 \u2013 Kleiner PC-Pool (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E38", 
             "slotid": "01", 
             "url": null
         }, 
         {
-            "name": "Neue Lehre", 
-            "responsible": "Dirk (K\u00f6ln)", 
-            "room": "Fachschaftsraum (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E35", 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "PiA: Protest/ Evaluation", 
-            "responsible": "Marius (Osnabr\u00fcck)", 
-            "room": "D (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36a", 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "Positionspapiere", 
-            "responsible": "Rick (Trier)", 
-            "room": "G1 (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36b", 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "Night of Science \u2013 Wissenschaft mal ganz anders", 
-            "responsible": "Vanessa (Frankfurt)", 
-            "room": "S3 (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E37", 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "Qualit\u00e4tsmanagement/ Systemakkreditierung", 
-            "responsible": "Max (Magdeburg)", 
-            "room": "S2 (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E38", 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "Homepageged\u00f6ns", 
-            "responsible": "Wuschel", 
-            "room": "02001 \u2013 Kleiner PC-Pool (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E43", 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "Anwesenheitspflicht/ Seminargestaltung/ Hausarbeiten// alternative Pr\u00fcfungsformate", 
-            "responsible": "Fachschaft M\u00fcnster", 
-            "room": "Fachschaftsraum (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E35", 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "PiA: Neue Protestideen/ Anregungen/ Fragen", 
-            "responsible": "Marius (Osnabr\u00fcck) & Domenika (Marburg)", 
-            "room": "D (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36a", 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "QSL-Mittel", 
-            "responsible": "FSR Frankfurt", 
-            "room": "G1 (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36b", 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "Masterpl\u00e4tze \u2013 aktuelle Situation", 
-            "responsible": "Felix (Bamberg)", 
-            "room": "S2 (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E37", 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "Homepageged\u00f6ns", 
-            "responsible": "Wuschel", 
-            "room": "02001 \u2013 Kleiner PC-Pool (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E38", 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "Gl\u00e4serner Krankenschein (Part II)", 
-            "responsible": "David (Frankfurt)", 
-            "room": "S3 (Institut)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E43", 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "PiA: Gast Prof. Dr. Rief", 
-            "responsible": "Meret (Trier)", 
-            "room": "Audimax (HSG 2.OG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E35", 
             "slotid": "04", 
             "url": null
         }, 
         {
-            "name": "Integration der Fachschaften in die Institute", 
-            "responsible": "Lara (Kiel)", 
-            "room": "S +1/0060 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36a", 
             "slotid": "04", 
             "url": null
         }, 
         {
-            "name": "Gleichbehandlung \u2013 Wie umsetzen?", 
-            "responsible": "Olli", 
-            "room": "H\u00f6rsaal 1. Stock (H\u00f6rsaalgeb\u00e4ude)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36b", 
             "slotid": "04", 
             "url": null
         }, 
         {
-            "name": "KonRat-Aufgaben", 
-            "responsible": "Marius (Osnabr\u00fcck)", 
-            "room": "S +2/0100 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E37", 
             "slotid": "04", 
             "url": null
         }, 
         {
-            "name": "Pr\u00fcfungseinsicht", 
-            "responsible": "Johanna / Anke (Saarland)", 
-            "room": "S +1/0050 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E38", 
             "slotid": "04", 
             "url": null
         }, 
         {
-            "name": "Situation ausl\u00e4ndischer Studierender", 
-            "responsible": "Freiburg", 
-            "room": "S +1/0050 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E35", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "Tiefenpsychologie und substanzinduzierte Psycholytik", 
-            "responsible": "Tristan (Bonn)", 
-            "room": "S +2/0100 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36a", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "PiA: Protest die Zweite", 
-            "responsible": "Marius (Osnabr\u00fcck)", 
-            "room": "H\u00f6rsaal 1. Stock (H\u00f6rsaalgeb\u00e4ude)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36b", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "PiA: Diskussion und Positionspapier", 
-            "responsible": "Meret (Trier) & Luisa (D\u00fcsseldorf)", 
-            "room": "S +1/0140 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E37", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "Was macht ihr f\u00fcr eure Studierenden?", 
-            "responsible": "(Frankfurt)", 
-            "room": "S +2/0110 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E38", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "Statistikunterst\u00fctzung", 
-            "responsible": "Stephanie (Jena)", 
-            "room": "S +1/0120 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E43", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "Masterpl\u00e4tze \u2013 Positionspapier", 
-            "responsible": "Felix (Bamberg)", 
-            "room": "S +1/0060 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "1.26", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "Night of Science \u2013 Wissenschaft mal ganz anders", 
-            "responsible": "(Frankfurt)", 
-            "room": "S +2/0110 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "1.29", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "PiA: Gast Adriane Sartorius", 
-            "responsible": "Luisa (D\u00fcsseldorf)", 
-            "room": "S +1/0120 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E35", 
             "slotid": "06", 
             "url": null
         }, 
         {
-            "name": "Traditionen: Studierenden-Dozierenden-Austausch", 
-            "responsible": "Marlene (Mainz)", 
-            "room": "S +2/0100 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36a", 
             "slotid": "06", 
             "url": null
         }, 
         {
-            "name": "Entspannung \u2013 Supergeil - ", 
-            "responsible": "Levin & Tido (Erfurt)", 
-            "room": "Alte Mensa", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E36b", 
             "slotid": "06", 
             "url": null
         }, 
         {
-            "name": "Tiefsp\u00fcler vs. Flachsp\u00fcler \u2013 Stand der Dinge", 
-            "responsible": "Lara (Kiel)", 
-            "room": "S +2/0100 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E37", 
             "slotid": "06", 
             "url": null
         }, 
         {
-            "name": "Verschl\u00fcsselungskram", 
-            "responsible": "S\u00f6ren (MR)", 
-            "room": "S +1/0060 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E38", 
             "slotid": "06", 
             "url": null
         }, 
         {
-            "name": "Psychomeisterschaften", 
-            "responsible": "Gesa (Bielefeld)", 
-            "room": "S +1/0140 (HSG)", 
+            "name": "test", 
+            "responsible": "testperson", 
+            "room": "E43", 
             "slotid": "06", 
             "url": null
         }
