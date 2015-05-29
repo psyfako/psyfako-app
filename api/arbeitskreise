@@ -1,21 +1,21 @@
 {
     "arbeitskreise": [
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "Antrag BMBF", 
+            "responsible": "Marc (Uni Hamburg)", 
             "room": "E35", 
             "slotid": "01", 
             "url": null
         }, 
         {
-            "name": "test", 
+            "name": "PsyFaKo-App", 
             "responsible": "testperson", 
             "room": "E36a", 
             "slotid": "01", 
             "url": null
         }, 
         {
-            "name": "test", 
+            "name": "Versuchspersonenstunden", 
             "responsible": "testperson", 
             "room": "E36b", 
             "slotid": "01", 
@@ -36,15 +36,22 @@
             "url": null
         }, 
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "PiA-Gruppe: Einf\u00fchrung", 
+            "responsible": "Luisa, Estelle (D\u00fcsseldorf, Trier)", 
+            "room": "1.26", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Antrag BMBF", 
+            "responsible": "Marc (Uni Hamburg)", 
             "room": "E35", 
             "slotid": "02", 
             "url": null
         }, 
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "Vernetzung Fachschaften -digital-", 
+            "responsible": "Michi (Bamberg)", 
             "room": "E36a", 
             "slotid": "02", 
             "url": null
@@ -78,6 +85,13 @@
             "url": null
         }, 
         {
+            "name": "PiA-Gruppe:", 
+            "responsible": "Luisa, Estelle (D\u00fcsseldorf, Trier)", 
+            "room": "1.26", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
             "name": "test", 
             "responsible": "testperson", 
             "room": "E35", 
@@ -85,15 +99,15 @@
             "url": null
         }, 
         {
-            "name": "test", 
+            "name": "Seminarplatzvergabe", 
             "responsible": "testperson", 
             "room": "E36a", 
             "slotid": "03", 
             "url": null
         }, 
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "Auswahl Studienplatz (Bachelor)", 
+            "responsible": "Marius (Osnabr\u00fcck)", 
             "room": "E36b", 
             "slotid": "03", 
             "url": null
@@ -120,8 +134,22 @@
             "url": null
         }, 
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "PiA-Gruppe:", 
+            "responsible": "Luisa, Estelle (D\u00fcsseldorf, Trier)", 
+            "room": "1.26", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Master", 
+            "responsible": "Felix (Hamburg)", 
+            "room": "1.29", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Politisches Arbeiten", 
+            "responsible": "Hannah (Bielefeld)", 
             "room": "E35", 
             "slotid": "04", 
             "url": null
@@ -152,6 +180,34 @@
             "responsible": "testperson", 
             "room": "E38", 
             "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Gruppe: Aktualisierung Postionspapiere", 
+            "responsible": "Rick (Trier)", 
+            "room": "E43", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Gruppe:", 
+            "responsible": "Luisa, Estelle (D\u00fcsseldorf, Trier)", 
+            "room": "1.26", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Master", 
+            "responsible": "Felix (Hamburg)", 
+            "room": "1.29", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Verschl\u00fcsselung", 
+            "responsible": "S\u00f6ren (Marburg)", 
+            "room": "1.30", 
+            "slotid": null, 
             "url": null
         }, 
         {
@@ -162,7 +218,7 @@
             "url": null
         }, 
         {
-            "name": "test", 
+            "name": "Psycho-Olympiade", 
             "responsible": "testperson", 
             "room": "E36a", 
             "slotid": "05", 
@@ -204,22 +260,29 @@
             "url": null
         }, 
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "Master", 
+            "responsible": "Felix (Hamburg)", 
             "room": "1.29", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "Verschl\u00fcsselung", 
+            "responsible": "S\u00f6ren (Marburg)", 
+            "room": "1.30", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Politisches Arbeiten", 
+            "responsible": "Hannah (Bielefeld)", 
             "room": "E35", 
             "slotid": "06", 
             "url": null
         }, 
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "Wiederholdung von Pr\u00fcfungen", 
+            "responsible": "Giulia", 
             "room": "E36a", 
             "slotid": "06", 
             "url": null
@@ -246,9 +309,30 @@
             "url": null
         }, 
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "Einf\u00fchrung Rechtspsychologie", 
+            "responsible": "Haschiko (Kiel)", 
             "room": "E43", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Gruppe: Diskussion Frau Dr. Beneke (BptK&DPT)", 
+            "responsible": "Luisa, Estelle (D\u00fcsseldorf, Trier)", 
+            "room": "1.26", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "Master", 
+            "responsible": "Felix (Hamburg)", 
+            "room": "1.29", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "WebTeam-Homepage", 
+            "responsible": "Ariane (Erfurt)", 
+            "room": "1.30", 
             "slotid": "06", 
             "url": null
         }
