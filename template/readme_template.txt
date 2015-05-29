@@ -9,7 +9,7 @@
   
   bei beiden ist darauf zu achten, dass die installation sich auf die aktuelle python variante bezieht und ins richtige verzeichnis installiert wurde  
 
-0. git pull XXX
+0. git pull https://github.com/psyfako/psyfako-app
 
 1. Verändern der arbeitskreis.ods
   ja wie man so ein ods halt editiert (speichern nicht vergessen)
