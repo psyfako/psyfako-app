@@ -22,7 +22,7 @@
             "url": null
         }, 
         {
-            "name": "test", 
+            "name": "Erasmus", 
             "responsible": "testperson", 
             "room": "E37", 
             "slotid": "01", 
@@ -32,6 +32,13 @@
             "name": "test", 
             "responsible": "testperson", 
             "room": "E38", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Austausch Praktika", 
+            "responsible": null, 
+            "room": "E43", 
             "slotid": "01", 
             "url": null
         }, 
@@ -57,7 +64,7 @@
             "url": null
         }, 
         {
-            "name": "test", 
+            "name": "Schlie\u00dfung", 
             "responsible": "testperson", 
             "room": "E36b", 
             "slotid": "02", 
@@ -92,6 +99,13 @@
             "url": null
         }, 
         {
+            "name": "Leistungsdruck -Studium-", 
+            "responsible": "(Hildesheim)", 
+            "room": "1.29", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
             "name": "test", 
             "responsible": "testperson", 
             "room": "E35", 
@@ -113,8 +127,8 @@
             "url": null
         }, 
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "Anwesenheitspflicht", 
+            "responsible": "Patrick (Bonn)", 
             "room": "E37", 
             "slotid": "03", 
             "url": null
@@ -148,6 +162,13 @@
             "url": null
         }, 
         {
+            "name": "Fachschaft -intern-", 
+            "responsible": "(Bielefeld)", 
+            "room": "1.30", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
             "name": "Politisches Arbeiten", 
             "responsible": "Hannah (Bielefeld)", 
             "room": "E35", 
@@ -155,8 +176,8 @@
             "url": null
         }, 
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "Wahlfach/ -modul", 
+            "responsible": "Marius (Osnabr\u00fcck)", 
             "room": "E36a", 
             "slotid": "04", 
             "url": null
@@ -207,7 +228,7 @@
             "name": "Verschl\u00fcsselung", 
             "responsible": "S\u00f6ren (Marburg)", 
             "room": "1.30", 
-            "slotid": null, 
+            "slotid": "04", 
             "url": null
         }, 
         {
@@ -253,8 +274,8 @@
             "url": null
         }, 
         {
-            "name": "test", 
-            "responsible": "testperson", 
+            "name": "PiA-Gruppe: Diskussion Frau Dr. Beneke (BptK&DPT)", 
+            "responsible": "Luisa, Estelle (D\u00fcsseldorf, Trier)", 
             "room": "1.26", 
             "slotid": "05", 
             "url": null
@@ -270,6 +291,13 @@
             "name": "Verschl\u00fcsselung", 
             "responsible": "S\u00f6ren (Marburg)", 
             "room": "1.30", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Streetworkout", 
+            "responsible": "Jan (Marburg)", 
+            "room": "Vor 127", 
             "slotid": "05", 
             "url": null
         }, 
@@ -316,7 +344,7 @@
             "url": null
         }, 
         {
-            "name": "PiA-Gruppe: Diskussion Frau Dr. Beneke (BptK&DPT)", 
+            "name": "PiA-Gruppe: ", 
             "responsible": "Luisa, Estelle (D\u00fcsseldorf, Trier)", 
             "room": "1.26", 
             "slotid": "06", 
