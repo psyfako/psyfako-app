@@ -9,18 +9,18 @@
   
   bei beiden ist darauf zu achten, dass die installation sich auf die aktuelle python variante bezieht und ins richtige verzeichnis installiert wurde  
 
-0. git pull https://github.com/psyfako/psyfako-app
+1. git pull https://github.com/psyfako/psyfako-app
 
-1. Verändern der arbeitskreis.ods
+2. Verändern der arbeitskreis.ods
   ja wie man so ein ods halt editiert (speichern nicht vergessen)
 
-2. Ausführen von template.py
+3. Ausführen von template.py
   Befehl: python3.X template.py bzw. python template.py
 
-3. commit
+4. commit
   Befehl: git commit -am 'aussagekräftiger text zur veränderung'
   
-4. push
+5. push
   Befehl: git push origin gh-pages
   Dann BenutzerInnen-Name + Passwort eingeben
   
@@ -31,5 +31,4 @@ Alternativ kann man das Ganze automatisieren:
 cd /pfad/zur/psyfako-app/template && python template.py && git commit -am 'aussagekräftiger text zur veränderung' &
 
 
-Dann noch Befehl 4 anhängen...
-test
+Dann noch Befehl 5 anhängen...
