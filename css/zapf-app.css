@@ -1,0 +1,71 @@
+/*!
+ * Style der ZaPF-App
+ */
+h1, .hero-unit h1 {
+  font-size: 32px;
+}
+.hero-unit {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+@media (min-width: 980px) {
+  .ak-unit { width: 25.5% !important; }
+}
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+  .ak-unit { width: 22% !important; }
+}
+@media (max-width: 767px) {
+  div.row {
+    margin-top: -10px;
+  }
+}
+.ak-unit {
+  margin: 10px;
+  margin-bottom: 20px !important;
+    padding: 25px;
+  background-color: #e6e6f1;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+.ak-unit h2, .ak-unit h3 {
+  line-height: 1;
+  color: inherit;
+  letter-spacing: -1px;
+}
+.ak-unit h2 {
+  margin-bottom: 5px;
+  font-size: 26px;
+}
+.ak-unit h2 i, .ak-unit h3 i {
+  vertical-align: baseline;
+  margin-right: 10px;
+}
+.ak-unit div.slottime {
+  padding-bottom: 20px;
+}
+.ak-unit p, .ak-unit .room {
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 27px;
+  color: inherit;
+}
+.ak-unit h3 {
+  float: left;
+}
+.ak-unit .aklink {
+  float: right;
+}
+.clearboth {
+  clear: both;
+}
+.clearleft {
+  clear: left;
+}
+footer p {
+  text-align: center;
+}
+.hidden {
+  display: none;
+}

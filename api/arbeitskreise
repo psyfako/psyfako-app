@@ -1,0 +1,335 @@
+{
+    "arbeitskreise": [
+        {
+            "name": "Antrag BMBF", 
+            "responsible": "Marc (Uni Hamburg)", 
+            "room": "E35", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "PsyFaKo-App", 
+            "responsible": "Rick (Trier)", 
+            "room": "E36a", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Versuchspersonenstunden", 
+            "responsible": "Fabian (Osnabr\u00fcck)", 
+            "room": "E36b", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Erasmus", 
+            "responsible": "Flo, Leo (Konstanz)", 
+            "room": "E37", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Austausch Praktika", 
+            "responsible": "Tristan", 
+            "room": "E43", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Gruppe: Einf\u00fchrung", 
+            "responsible": "Luisa, Estelle (D\u00fcsseldorf, Trier)", 
+            "room": "1.26", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Antrag BMBF", 
+            "responsible": "Marc (Uni Hamburg)", 
+            "room": "E35", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Vernetzung Fachschaften -digital-", 
+            "responsible": "Michi (Bamberg)", 
+            "room": "E36a", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Schlie\u00dfung", 
+            "responsible": "Lara (Bremen)", 
+            "room": "E36b", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Gruppe: Gast Peter Freytag (VPP)", 
+            "responsible": "Luisa, Estelle (D\u00fcsseldorf, Trier)", 
+            "room": "1.26", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Leistungsdruck -Studium-", 
+            "responsible": "Leo, Kathi (Hildesheim)", 
+            "room": "1.29", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Flachsp\u00fcler vs. Tiefsp\u00fcler", 
+            "responsible": "Lara (Kiel)", 
+            "room": "E35", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Seminarplatzvergabe", 
+            "responsible": "Diana (Bielefeld)", 
+            "room": "E36a", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Auswahl Studienplatz (Bachelor)", 
+            "responsible": "Marius (Osnabr\u00fcck)", 
+            "room": "E36b", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Anwesenheitspflicht", 
+            "responsible": "Patrick (Bonn)", 
+            "room": "E37", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Gruppe: Gast Peter Freytag (VPP)", 
+            "responsible": "Luisa, Estelle (D\u00fcsseldorf, Trier)", 
+            "room": "1.26", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Master", 
+            "responsible": "Felix (Hamburg)", 
+            "room": "1.29", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Fachschaft -intern-", 
+            "responsible": "Lisa (Bielefeld)", 
+            "room": "1.30", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Politisches Arbeiten", 
+            "responsible": "Hannah (Bielefeld)", 
+            "room": "E35", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Wahlfach/ -modul", 
+            "responsible": "Marius (Osnabr\u00fcck)", 
+            "room": "E36a", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Slackline", 
+            "responsible": "(Bonn)", 
+            "room": "vor der T\u00fcr", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Politik", 
+            "responsible": "Hannah (Bielefeld)", 
+            "room": "E35", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Gruppe: Aktualisierung Postionspapiere", 
+            "responsible": "Rick (Trier), Luisa (D\u00fcsseldorf), Meret (Trier)", 
+            "room": "E43", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Gruppe: Protest", 
+            "responsible": "Estelle (Trier), Miriam (Mainz)", 
+            "room": "1.26", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Master", 
+            "responsible": "Felix (Hamburg)", 
+            "room": "1.29", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Verschl\u00fcsselung f\u00fcr Einsteiger*innen", 
+            "responsible": "S\u00f6ren (Marburg)", 
+            "room": "1.30", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Psycho-Olympiade", 
+            "responsible": "Gesa (Bielefeld)", 
+            "room": "E36a", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "How  to Vorstand", 
+            "responsible": "Norman (Stendal)", 
+            "room": "E36b", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Erarbeitung Positionspapier \u201eAnwesenheitspflicht\u201c", 
+            "responsible": "Janis (Marburg City)", 
+            "room": "E36b", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Erarbeitung Positionspapier \u201eHochschulstaat\u201c", 
+            "responsible": "Marius (Osnabr\u00fcck)", 
+            "room": "E37", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "14:00 ! - PiA-Gruppe: Diskussion Frau Dr. Beneke (BptK&DPT)", 
+            "responsible": "Luisa, Estelle (D\u00fcsseldorf, Trier)", 
+            "room": "E43", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Master", 
+            "responsible": "Felix (Hamburg)", 
+            "room": "1.29", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Verschl\u00fcsselung f\u00fcr Einsteiger*innen", 
+            "responsible": "S\u00f6ren (Marburg)", 
+            "room": "1.30", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "14:00 ! - Streetworkout", 
+            "responsible": "Jan (Marburg)", 
+            "room": "Vor 127", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Politisches Arbeiten", 
+            "responsible": "Hannah (Bielefeld)", 
+            "room": "E35", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "Wiederholdung von Pr\u00fcfungen", 
+            "responsible": "Giulia (Bonn)", 
+            "room": "E36a", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "Diplomatie mit Dozent*Innen", 
+            "responsible": "Patrick (Bonn)", 
+            "room": "E36b", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "Teambuilding", 
+            "responsible": "Lisa & Luisa (Bielefeld)", 
+            "room": "1.29", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Gruppe: Positionspapier Reform", 
+            "responsible": "Luisa (D\u00fcsseldorf), Meret (Trier), Rick (Trier)", 
+            "room": "1.26", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "Masterproblematik", 
+            "responsible": "Felix (Hamburg)", 
+            "room": "E37", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "WebTeam-Homepage", 
+            "responsible": "Ariane (Erfurt)", 
+            "room": "1.30", 
+            "slotid": "06", 
+            "url": null
+        }
+    ], 
+    "slots": [
+        {
+            "begin": "2015-05-29T09:30:00+0100", 
+            "end": "2015-05-29T11:30:00+0100", 
+            "id": "01", 
+            "name": "1. Open-Space-Runde", 
+            "shortname": "F 1"
+        }, 
+        {
+            "begin": "2015-05-29T13:00:00+0100", 
+            "end": "2015-05-29T14:30:00+0100", 
+            "id": "02", 
+            "name": "2. Open-Space-Runde", 
+            "shortname": "F 2"
+        }, 
+        {
+            "begin": "2015-05-29T15:00:00+0100", 
+            "end": "2015-05-29T16:30:00+0100", 
+            "id": "03", 
+            "name": "3. Open-Space-Runde", 
+            "shortname": "F 3"
+        }, 
+        {
+            "begin": "2015-05-30T10:30:00+0100", 
+            "end": "2015-05-30T12:00:00+0100", 
+            "id": "04", 
+            "name": "4. Open-Space-Runde", 
+            "shortname": "S1"
+        }, 
+        {
+            "begin": "2015-05-30T13:30:00+0100", 
+            "end": "2015-05-30T15:00:00+0100", 
+            "id": "05", 
+            "name": "5. Open-Space-Runde", 
+            "shortname": "S 2"
+        }, 
+        {
+            "begin": "2015-05-30T15:00:00+0100", 
+            "end": "2015-05-30T16:30:00+0100", 
+            "id": "06", 
+            "name": "6. Open-Space-Runde", 
+            "shortname": "S 3"
+        }
+    ]
+}
