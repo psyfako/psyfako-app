@@ -1,16 +1,262 @@
 {
-    "arbeitskreise": [], 
+    "arbeitskreise": [
+        {
+            "name": "PiA-Gruppe", 
+            "responsible": "Meret (Trier) und \u00d6zlem (Dresden", 
+            "room": "R4 in VMP 11", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "PsyFaKo-App", 
+            "responsible": "S\u00f6ren (Marburg)", 
+            "room": "4018 in VMP 5", 
+            "slotid": "01", 
+            "url": "https://app.psyfako.org"
+        }, 
+        {
+            "name": "Einf\u00fchrung Mastergruppe", 
+            "responsible": "Melissa (Berlin)", 
+            "room": "16 in VMP 11", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "PsyFaKonfus", 
+            "responsible": "Marlene und Anja", 
+            "room": "17 in VMP 11", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "Einf\u00fchrung Akkreditiertung", 
+            "responsible": "Anna (Bamberg)", 
+            "room": "William Stern Raum in VMP 5", 
+            "slotid": "01", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Demos", 
+            "responsible": "Nina (Mainz)", 
+            "room": "R4 in VMP 11", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Akkreditierung", 
+            "responsible": "Anna (Bamberg)", 
+            "room": "William Stern Raum in VMP 5", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Webteam", 
+            "responsible": "Ariane (Erfurt)", 
+            "room": "4018 in VMP 5", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Psychosoziale Beratung von Refugees", 
+            "responsible": "Janis (Marburg)", 
+            "room": "5038 in VMP 5", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Satzung lesen", 
+            "responsible": "Wuschel (Bamberg)", 
+            "room": "4020 in VMP 5", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Austausch zu Klausuren und Notenmodellen und Bayern", 
+            "responsible": "Maximilian (M\u00fcnchen)", 
+            "room": "3023 in VMP 5", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Positionspapiere der Mastergruppe", 
+            "responsible": "Melissa (Berlin)", 
+            "room": "16 in VMP 11", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Mastervideogrupp", 
+            "responsible": "Melissa (Berlin)", 
+            "room": "17 in VMP 11", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "Seminarplatzvergab", 
+            "responsible": "Felix (Bielefeld)", 
+            "room": "4019 in VMP 5", 
+            "slotid": "02", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Gast von der BuKo", 
+            "responsible": "Meret (Trier) und \u00d6zlem (Dresden)", 
+            "room": "R4 in VMP 11", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "PsyFaCloud", 
+            "responsible": "Michi (Bamberg)", 
+            "room": "4018 in VMP 5", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Vortrag Refugees", 
+            "responsible": "Janis (Marburg)", 
+            "room": "5038 in VMP 5", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Psychoanalyse an die Unis", 
+            "responsible": "Dirk (K\u00f6ln)", 
+            "room": "4020 in VMP 5", 
+            "slotid": "03", 
+            "url": null
+        }, 
+        {
+            "name": "Kampfansage", 
+            "responsible": "Meret (Trier)  ", 
+            "room": "R4 in VMP 11", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "KonRat und Vorstandsarbeit", 
+            "responsible": "Marie (Bamberg)", 
+            "room": "4018 in VMP 5", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Chronik und Texte zur PsyFaKo", 
+            "responsible": "Marie (Bamberg)", 
+            "room": "5018 in VMP 5", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Erfahrungen mit zu viele Ersies", 
+            "responsible": "Lars (Konstanz)", 
+            "room": "4019 in VMP 5", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Openscience Replikationsdebatte", 
+            "responsible": "Maximilian (M\u00fcnchen)", 
+            "room": "102 in VMP 11", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Inhalt der Lehre", 
+            "responsible": "Diana (Bielefeld)", 
+            "room": "5038 in VMP 5", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "PiA-Gast von der DGPS", 
+            "responsible": "\u00d6zlem (Dresden)", 
+            "room": "R4 in VMP 11", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Umfrage Positionspapiere", 
+            "responsible": "Marie (Bamberg)", 
+            "room": "4018 in VMP 5", 
+            "slotid": "04", 
+            "url": null
+        }, 
+        {
+            "name": "Vernetzung \u00d6ffentlichkeitsarbeit ", 
+            "responsible": "Tristan (Gie\u00dfen)", 
+            "room": "William Stern Raum in VMP 5", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "PsyOlympia", 
+            "responsible": "Torben (Hamburg) und Gesa (Bielefeld)", 
+            "room": "3023 in VMP 5", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Verg\u00fctung von Praktika und HiWis", 
+            "responsible": "Alex (Ulm)", 
+            "room": "101 in VMP 11", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Verschl\u00fcsselung", 
+            "responsible": "S\u00f6ren (Marburg)", 
+            "room": "5018 in VMP 5", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "AK\u00d6ffentlichkeitsarbeit und Mitgliederaquise", 
+            "responsible": "Verena (Bamberg)", 
+            "room": "102 in VMP 11", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "PsychoStimulanzien", 
+            "responsible": "Tristan (Gie\u00dfen)", 
+            "room": "William Stern Raum in VMP 5", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "Freie Medien in der \u00d6ffentlichkeitsarbeit", 
+            "responsible": "Michi (Bamberg)", 
+            "room": "5038 in VMP 5", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "PsyOlympia", 
+            "responsible": "Torben (Hamburg) und Gesa (Bielefeld)", 
+            "room": "3023 in VMP 5", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "Verschl\u00fcsselung", 
+            "responsible": "S\u00f6ren (Marburg)", 
+            "room": "5018 in VMP 5", 
+            "slotid": "06", 
+            "url": null
+        }
+    ], 
     "slots": [
         {
-            "begin": "2015-11-27T11:00:00+0100", 
-            "end": "2015-11-27T13:00:00+0100", 
+            "begin": "2015-11-27T11:30:00+0100", 
+            "end": "2015-11-27T13:30:00+0100", 
             "id": "01", 
             "name": "1. Open-Space-Runde", 
             "shortname": "F 1"
         }, 
         {
-            "begin": "2015-11-27T14:00:00+0100", 
-            "end": "2015-11-27T15:30:00+0100", 
+            "begin": "2015-11-27T14:15:00+0100", 
+            "end": "2015-11-27T15:45:00+0100", 
             "id": "02", 
             "name": "2. Open-Space-Runde", 
             "shortname": "F 2"
