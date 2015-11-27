@@ -71,7 +71,7 @@ Beispiele hierfür sind die Dateien ak_beispiel.csv und slots_beispiel.csv im
 Ordner template.
 
 ## Bisherige Verwendung
-Die PsyFaKo-App ist ein Projekt der ZaPF, welches sich unseriöse Elemente innerhalb der PsyFaKo einfach ausgeborgt haben. Bisher wurden mit der App ZaPF- und PsyFaKo-Veranstaltungen bespaßt. Bis einschließlich zur PsyFaKo in Heidelberg 2015 wurde eine ältere Version der App verwendet, seit dem Treffen in Hamburg im November ist eine Testversion einer moderneren App in Benutzung.
+Die PsyFaKo-App ist ein Projekt der ZaPF, welches sich unseriöse Elemente innerhalb der PsyFaKo im Jahre 2012 einfach ausgeborgt haben. Bisher wurden mit der App ZaPF- und PsyFaKo-Veranstaltungen bespaßt. Bis einschließlich zur PsyFaKo in Heidelberg 2015 wurde eine ältere Version der App verwendet, seit dem Treffen in Hamburg im November ist eine Testversion einer moderneren App in Benutzung.
 
 
 ## Eingebettete Fremd-Projekte
