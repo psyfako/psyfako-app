@@ -148,13 +148,6 @@
             "url": null
         }, 
         {
-            "name": "Erfahrungen mit zu viele Ersies", 
-            "responsible": "Lars (Konstanz)", 
-            "room": "4019 in VMP 5", 
-            "slotid": "04", 
-            "url": null
-        }, 
-        {
             "name": "Openscience Replikationsdebatte", 
             "responsible": "Maximilian (M\u00fcnchen)", 
             "room": "102 in VMP 11", 
@@ -256,6 +249,13 @@
             "name": "Flunkyball Osnabr\u00fcck fordert", 
             "responsible": "Marius (Osna)", 
             "room": "103 in VMP 11", 
+            "slotid": "06", 
+            "url": null
+        }, 
+        {
+            "name": "Erfahrungen mit zu vielen Ersies", 
+            "responsible": "Lars (Konstanz)", 
+            "room": "4020 in VMP 5", 
             "slotid": "06", 
             "url": null
         }
