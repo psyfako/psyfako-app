@@ -251,6 +251,13 @@
             "room": "5018 in VMP 5", 
             "slotid": "06", 
             "url": null
+        }, 
+        {
+            "name": "Flunkyball Osnabr\u00fcck fordert", 
+            "responsible": "Marius (Osna)", 
+            "room": "103 in VMP 11", 
+            "slotid": "06", 
+            "url": null
         }
     ], 
     "slots": [
