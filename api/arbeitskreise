@@ -169,17 +169,17 @@
             "url": null
         }, 
         {
-            "name": "PiA-Gast von der DGPS", 
-            "responsible": "\u00d6zlem (Dresden)", 
-            "room": "R4 in VMP 11", 
+            "name": "Umfrage Positionspapiere", 
+            "responsible": "Marie (Bamberg)", 
+            "room": "4018 in VMP 5", 
             "slotid": "05", 
             "url": null
         }, 
         {
-            "name": "Umfrage Positionspapiere", 
-            "responsible": "Marie (Bamberg)", 
-            "room": "4018 in VMP 5", 
-            "slotid": "04", 
+            "name": "PiA-Gast von der DGPS", 
+            "responsible": "\u00d6zlem (Dresden)", 
+            "room": "R4 in VMP 11", 
+            "slotid": "05", 
             "url": null
         }, 
         {
@@ -214,6 +214,13 @@
             "name": "AK\u00d6ffentlichkeitsarbeit und Mitgliederaquise", 
             "responsible": "Verena (Bamberg)", 
             "room": "102 in VMP 11", 
+            "slotid": "05", 
+            "url": null
+        }, 
+        {
+            "name": "Transsexualit\u00e4t", 
+            "responsible": null, 
+            "room": "4019 in VMP 5", 
             "slotid": "05", 
             "url": null
         }, 
