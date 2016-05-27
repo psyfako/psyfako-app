@@ -1,38 +1,220 @@
 {
     "arbeitskreise": [
         {
-            "name": "Thema 1",
-            "responsible": "Verantwortliche*r 1",
-            "room": "Raum 1",
+            "name": "Akkreditierung \u2013 Erfahrungsaustausch",
+            "responsible": "Anna (Bamberg)",
+            "room": "02-146",
             "slotid": "1",
             "url": " "
         },
         {
-            "name": "Thema 2",
-            "responsible": "Verantwortliche*r 2",
-            "room": "Raum 2",
+            "name": "Die Entwicklung psychotherapeutischer Kompetenzen",
+            "responsible": "J\u00fcrgen K\u00f6rner (Gastvortrag)",
+            "room": "02-432",
+            "slotid": "1",
+            "url": null
+        },
+        {
+            "name": "Master Statistik",
+            "responsible": "Tido (Magdeburg)",
+            "room": "04-432",
+            "slotid": "1",
+            "url": null
+        },
+        {
+            "name": "Journal Failed Experiments",
+            "responsible": "",
+            "room": "03-134",
+            "slotid": "1",
+            "url": null
+        },
+        {
+            "name": "Psychoanalyse",
+            "responsible": "Dirk (K\u00f6ln)",
+            "room": "03-134",
             "slotid": "2",
             "url": null
         },
         {
-            "name": "Thema 3",
-            "responsible": "Verantwortliche*r 3",
-            "room": "Raum 3",
+            "name": "Masterplatzproblematik",
+            "responsible": "Felix (Hamburg)",
+            "room": "02-501(30)",
+            "slotid": "2",
+            "url": null
+        },
+        {
+            "name": "Methodenausbildung in der Psychologie",
+            "responsible": "Anna (Bamberg)",
+            "room": "02-146",
+            "slotid": "2",
+            "url": null
+        },
+        {
+            "name": "PiA \u2013 Vortrag",
+            "responsible": "Frau Richter (Gastvortrag)",
+            "room": "02-432",
+            "slotid": "2",
+            "url": null
+        },
+        {
+            "name": "Master Zulassungskrieterien",
+            "responsible": "Celine (Hamburg)",
+            "room": "03-144",
+            "slotid": "2",
+            "url": null
+        },
+        {
+            "name": "VG Wort",
+            "responsible": "Lars (Konstanz)",
+            "room": "03-153",
+            "slotid": "2",
+            "url": null
+        },
+        {
+            "name": "Positionspapier \u00fcberarbeiten",
+            "responsible": "Geza (Bielefeld)",
+            "room": "03-436",
+            "slotid": "2",
+            "url": null
+        },
+        {
+            "name": "Unterrepr\u00e4sentation von Studienthemen",
+            "responsible": "",
+            "room": "04-432",
+            "slotid": "2",
+            "url": null
+        },
+        {
+            "name": "Psychomaster Info Forum",
+            "responsible": "Marius (Osna)",
+            "room": "02-616",
             "slotid": "3",
             "url": null
         },
         {
-            "name": "Thema 4",
+            "name": "Pr\u00fcfungswiederholung",
+            "responsible": "Florian (Konstanz)",
+            "room": "02-507",
+            "slotid": "3",
+            "url": null
+        },
+        {
+            "name": "Akkreditierung",
+            "responsible": "Anna (Bamberg)",
+            "room": "02-607",
+            "slotid": "3",
+            "url": null
+        },
+        {
+            "name": "PiA Vertiefung",
             "responsible": "Verantwortliche*r 4",
-            "room": "Raum 4",
+            "room": "02-731",
+            "slotid": "3",
+            "url": null
+        },
+        {
+            "name": "Exzellenz-Initiative",
+            "responsible": "Jana (Hamburg)",
+            "room": "02-601",
+            "slotid": "3",
+            "url": null
+        },
+        {
+            "name": "Datenschutz",
+            "responsible": "S\u00f6ren (Marburg)",
+            "room": "02-611",
+            "slotid": "3",
+            "url": null
+        },
+        {
+            "name": "Corporate Design",
+            "responsible": "Marc (Hamburg)",
+            "room": "02-703(20)",
             "slotid": "4",
             "url": null
         },
         {
-            "name": "Thema 5",
+            "name": "Masterplatzproblematik",
+            "responsible": "Felix (Hamburg)",
+            "room": "02-601",
+            "slotid": "4",
+            "url": null
+        },
+        {
+            "name": "PiA \u2013 Protest",
             "responsible": "Verantwortliche*r 5",
-            "room": "Raum 5",
+            "room": "02-731",
+            "slotid": "4",
+            "url": null
+        },
+        {
+            "name": "Allgemeiner vs. Spezialisierter Master",
+            "responsible": "Andre (W\u00fcrzburg)",
+            "room": "02-507",
+            "slotid": "4",
+            "url": null
+        },
+        {
+            "name": "PsyStudents",
+            "responsible": "",
+            "room": "02-741",
+            "slotid": "4",
+            "url": null
+        },
+        {
+            "name": "Social Justice",
+            "responsible": "",
+            "room": "02-701",
+            "slotid": "4",
+            "url": null
+        },
+        {
+            "name": "Lebendige Fachschaft",
+            "responsible": "Micha ",
+            "room": "02-607",
+            "slotid": "4",
+            "url": null
+        },
+        {
+            "name": "Psycholympia Arbeitsslot",
+            "responsible": "Tido & Geza",
+            "room": "02-701",
             "slotid": "5",
+            "url": null
+        },
+        {
+            "name": "Alumni",
+            "responsible": "Pete (Marburg)",
+            "room": "02-611",
+            "slotid": "5",
+            "url": null
+        },
+        {
+            "name": "Studie Ehrenamt",
+            "responsible": "Marc (Hamburg)",
+            "room": "02-507",
+            "slotid": "5",
+            "url": null
+        },
+        {
+            "name": "\u00d6ffentlichkeitsarbeit",
+            "responsible": "Michi (Bamberg)",
+            "room": "02-601",
+            "slotid": "5",
+            "url": null
+        },
+        {
+            "name": "CHE Ranking",
+            "responsible": "Kiel",
+            "room": "02-709",
+            "slotid": "3",
+            "url": null
+        },
+        {
+            "name": "Professionalisierung Vernetzung",
+            "responsible": "Lars (Konstanz)",
+            "room": "02-701",
+            "slotid": "3",
             "url": null
         }
     ],
