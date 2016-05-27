@@ -134,6 +134,20 @@
             "url": null
         },
         {
+            "name": "CHE Ranking & BaF\u00f6g und Gremien",
+            "responsible": "Anina (Bielefeld)",
+            "room": "02-709",
+            "slotid": "3",
+            "url": null
+        },
+        {
+            "name": "Professionalisierung Vernetzung",
+            "responsible": "Lars (Konstanz)",
+            "room": "02-701",
+            "slotid": "3",
+            "url": null
+        },
+        {
             "name": "Corporate Design",
             "responsible": "Marc (Hamburg)",
             "room": "02-703(20)",
@@ -183,6 +197,13 @@
             "url": null
         },
         {
+            "name": "Austausch Klausureinsicht",
+            "responsible": "Thore & Josi (Kiel)",
+            "room": "02-611",
+            "slotid": "4",
+            "url": null
+        },
+        {
             "name": "Psycholympia Arbeitsslot",
             "responsible": "Tido & Geza",
             "room": "02-701",
@@ -208,20 +229,6 @@
             "responsible": "Michi (Bamberg)",
             "room": "02-601",
             "slotid": "5",
-            "url": null
-        },
-        {
-            "name": "CHE Ranking",
-            "responsible": "Kiel",
-            "room": "02-709",
-            "slotid": "3",
-            "url": null
-        },
-        {
-            "name": "Professionalisierung Vernetzung",
-            "responsible": "Lars (Konstanz)",
-            "room": "02-701",
-            "slotid": "3",
             "url": null
         }
     ],
