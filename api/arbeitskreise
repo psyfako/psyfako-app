@@ -230,6 +230,13 @@
             "room": "02-601",
             "slotid": "5",
             "url": null
+        },
+        {
+            "name": "Pr\u00fcfungswiederholung",
+            "responsible": "Florian (Konstanz)",
+            "room": "02-607",
+            "slotid": "5",
+            "url": null
         }
     ],
     "slots": [
