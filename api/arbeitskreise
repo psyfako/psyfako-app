@@ -127,13 +127,6 @@
             "url": null
         },
         {
-            "name": "Datenschutz",
-            "responsible": "S\u00f6ren (Marburg)",
-            "room": "02-611",
-            "slotid": "3",
-            "url": null
-        },
-        {
             "name": "CHE Ranking & BaF\u00f6g und Gremien",
             "responsible": "Anina (Bielefeld)",
             "room": "02-709",
@@ -201,6 +194,13 @@
             "responsible": "Thore & Josi (Kiel)",
             "room": "02-611",
             "slotid": "4",
+            "url": null
+        },
+        {
+            "name": "Datenschutz",
+            "responsible": "S\u00f6ren (Marburg)",
+            "room": "",
+            "slotid": "5",
             "url": null
         },
         {
